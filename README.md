@@ -1,2 +1,2 @@
 # web-development
-This is demo.
+This is demo for web development project.
