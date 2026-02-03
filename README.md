@@ -37,3 +37,11 @@ Example Explained:
 ## What is an HTML Element?
 An HTML element is defined by a start tag, some content, and an end tag:
 <tagname> Content goes here... </tagname>
+
+## HTML Attributes:
+HTML attributes provide additional information about HTML elements.
+
+-All HTML elements can have attributes.
+-Attributes provide additional information about elements.
+-Attributes are always specified in the start tag.
+-Attributes usually come in name/value pairs like: name="value"
