@@ -9,7 +9,7 @@ HTML is the standard markup language for creating Web pages.
 -HTML elements tell the browser how to display the content
 -HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
-## A Simple HTML Document
+A Simple HTML Document
 Example:
 
 <!DOCTYPE html>
