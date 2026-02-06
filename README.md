@@ -1,7 +1,7 @@
 ## HTML Introduction
 HTML is the standard markup language for creating Web pages.
 
-1. What is HTML?
+ What is HTML?
 -HTML stands for Hyper Text Markup Language
 -HTML is the standard markup language for creating Web pages
 -HTML describes the structure of a Web page
@@ -45,3 +45,17 @@ HTML attributes provide additional information about HTML elements.
 -Attributes provide additional information about elements.
 -Attributes are always specified in the start tag.
 -Attributes usually come in name/value pairs like: name="value"
+
+HTML Formatting Elements
+Formatting elements were designed to display special types of text:
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
