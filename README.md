@@ -59,3 +59,9 @@ Formatting elements were designed to display special types of text:
 <ins> - Inserted text
 <sub> - Subscript text
 <sup> - Superscript text
+
+## HTML Forms
+HTML forms, defined using the <form> tag, are essential for collecting user input on web pages. They include interactive controls like text fields, emails, passwords, checkboxes, radios, and buttons.
+
+Widely used, over 85% of websites rely on forms to gather user data.
+They play a crucial role in modern web development by enabling user interaction and data submission.
