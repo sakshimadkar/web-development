@@ -65,3 +65,6 @@ HTML forms, defined using the <form> tag, are essential for collecting user inpu
 
 Widely used, over 85% of websites rely on forms to gather user data.
 They play a crucial role in modern web development by enabling user interaction and data submission.
+
+##  HTML Table
+HTML tables allow web developers to arrange data into rows and columns.
