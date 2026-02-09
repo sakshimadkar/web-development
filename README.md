@@ -1,4 +1,4 @@
-## HTML Introduction
+## HTML 
 HTML is the standard markup language for creating Web pages.
 
  What is HTML?
@@ -68,3 +68,22 @@ They play a crucial role in modern web development by enabling user interaction 
 
 ##  HTML Table
 HTML tables allow web developers to arrange data into rows and columns.
+
+## CSS Introduction
+CSS (Cascading Style Sheets) is a language designed to simplify the process of making web pages presentable.
+
+It allows you to apply styles to HTML documents by prescribing colors, fonts, spacing, and positioning.
+It separates content from styling and allows CSS to be reused across pages.
+HTML uses tags, and CSS uses rule sets.
+CSS styles are applied to the HTML element using selectors.
+
+## CSS Selector
+A CSS selector is a pattern used to target HTML elements and apply specific styles based on their type, class, ID, attributes, or state.
+
+Selectors can target elements by tag, class, or ID.
+Combinators allow selecting elements based on hierarchy or sibling relationships.
+Attribute selectors target elements with specific attributes or values.
+Pseudo-classes style elements in a particular state (e.g., :hover, :first-child).
+Pseudo-elements style specific parts of an element (e.g., ::first-letter, ::after).
+Advanced selectors like :not() or :nth-child() allow precise and complex selection.
+Efficient use of selectors leads to clean, maintainable, and scalable CSS.
