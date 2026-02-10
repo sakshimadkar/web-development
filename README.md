@@ -87,3 +87,23 @@ Pseudo-classes style elements in a particular state (e.g., :hover, :first-child)
 Pseudo-elements style specific parts of an element (e.g., ::first-letter, ::after).
 Advanced selectors like :not() or :nth-child() allow precise and complex selection.
 Efficient use of selectors leads to clean, maintainable, and scalable CSS.
+
+
+## CSS Syntax
+Following is the syntax of styling using CSS.
+
+selector {
+    property: value;
+}
+where,
+Selector: CSS selectors are used to select the HTML element or groups of elements you want to style on a web page.
+Property: A CSS property is an aspect or characteristic of an HTML element that can be styled or modified using CSS, such as color, font-size, or margin.
+Value: Values are assigned to properties. For example, color property can have value like red, green etc.
+
+## CSS Comments
+CSS comments are used to add notes or explanations to your code, helping you and others understand it better.
+
+Comments can be added anywhere in the code, and they can span across multiple lines.
+It’s a good practice to add comments to clarify complex parts of your code for future reference or collaboration.
+Older methods like <!-- --> for hiding CSS in older browsers are outdated and not recommended.
+Comments are simply ignored by the browser, so they don't affect the output in any way
