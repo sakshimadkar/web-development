@@ -106,4 +106,17 @@ CSS comments are used to add notes or explanations to your code, helping you and
 Comments can be added anywhere in the code, and they can span across multiple lines.
 It’s a good practice to add comments to clarify complex parts of your code for future reference or collaboration.
 Older methods like <!-- --> for hiding CSS in older browsers are outdated and not recommended.
-Comments are simply ignored by the browser, so they don't affect the output in any way
+Comments are simply ignored by the browser, so they don't affect the output in any way.
+
+## CSS Animations
+CSS allows animation of HTML elements without using JavaScript!
+What are CSS Animations?
+An animation lets an element gradually change from one style to another.
+You can change as many CSS properties you want, as many times as you want.
+To use CSS animation, you must specify some keyframes for the animation.
+Keyframes hold what styles the element will have at certain times.
+
+## CSS Flexbox (Flexible Box Layout)
+CSS Flexbox is short for the CSS Flexible Box Layout module.
+Flexbox is a layout model for arranging items (horizontally or vertically) within a container, in a flexible and responsive way.
+Flexbox makes it easy to design a flexible and responsive layout, without using float or positioning.
