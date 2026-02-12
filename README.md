@@ -120,3 +120,16 @@ Keyframes hold what styles the element will have at certain times.
 CSS Flexbox is short for the CSS Flexible Box Layout module.
 Flexbox is a layout model for arranging items (horizontally or vertically) within a container, in a flexible and responsive way.
 Flexbox makes it easy to design a flexible and responsive layout, without using float or positioning.
+
+## Introduction to JavaScript
+JavaScript is a versatile, dynamically typed programming language that brings life to web pages by making them interactive. It is used for building interactive web applications, supports both client-side and server-side development, and integrates seamlessly with HTML, CSS, and a rich standard library.
+JavaScript is a single-threaded language that executes one task at a time.
+It is an interpreted language which means it executes the code line by line.
+The data type of the variable is decided at run-time in JavaScript, which is why it is called dynamically typed.
+
+## JavaScript Values
+There are two types of values defined in JavaScript Syntax:
+
+Fixed Values: These are known as the literals.
+Variable values: These are called variables
+
