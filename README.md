@@ -133,3 +133,15 @@ There are two types of values defined in JavaScript Syntax:
 Fixed Values: These are known as the literals.
 Variable values: These are called variables
 
+## JavaScript Variables
+In JavaScript, variables are used to store the dynamic data.
+You can use the below keyword to define variables in JavaScript.
+-var
+-let
+-const
+
+Whitespace and Line Breaks
+JavaScript ignores spaces, tabs, and newlines that appear in JavaScript programs. You can use spaces, tabs, and newlines freely in your program and you are free to format and indent your programs in a neat and consistent way that makes the code easy to read and understand.
+
+Semicolons are Optional
+Simple statements in JavaScript are generally followed by a semicolon character, just as they are in C, C++, and Java. JavaScript, however, allows you to omit this semicolon if each of your statements are placed on a separate line. For example, the following code could be written without semicolons.
