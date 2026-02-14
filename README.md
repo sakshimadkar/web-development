@@ -145,3 +145,71 @@ JavaScript ignores spaces, tabs, and newlines that appear in JavaScript programs
 
 Semicolons are Optional
 Simple statements in JavaScript are generally followed by a semicolon character, just as they are in C, C++, and Java. JavaScript, however, allows you to omit this semicolon if each of your statements are placed on a separate line. For example, the following code could be written without semicolons.
+
+## JavaScript Conditionals
+Conditional Statements allow us to perform different actions for different conditions.
+
+-Conditional statements include:
+if
+if...else
+if...else if...else
+switch
+ternary (? :)
+
+## When to use Conditionals
+Use if to specify a code block to be executed, if a specified condition is true
+Use else to specify a code block to be executed, if the same condition is false
+Use else if to specify a new condition to test, if the first condition is false
+Use switch to specify many alternative code blocks to be executed
+Use (? :) (ternary) as a shorthand for if...else
+The if Statement
+Use if to specify a code block to be executed, if a specified condition is true.
+
+Syntax:
+if (condition) {
+  // code to execute if the condition is true
+}
+
+The else Statement
+Use else to specify a code block to be executed, if the same condition is false.
+
+Syntax:
+if (condition) {
+  // code to execute if the condition is true
+} else {
+  // code to execute if the condition is false
+}
+
+The else if Statement
+Use else if to specify a new condition to test, if the first condition is false.
+
+Syntax:
+if (condition1) {
+  // code to execute if condition1 is true
+} else if (condition2) {
+  // code to execute if the condition1 is false and condition2 is true
+} else {
+  // code to execute if the condition1 is false and condition2 is false
+}
+
+
+The switch Statement
+Use switch to specify many alternative code blocks to be executed.
+
+Syntax
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+
+Ternary Operator (? :)
+Use (? :) (ternary) as a shorthand for if...else.
+
+Example:
+condition ? expression1 : expression2
