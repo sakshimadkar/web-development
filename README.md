@@ -224,3 +224,15 @@ function greet(name) {   // 'name' is a parameter
 greet("Alice");  // "Alice" is the argument
 --Parameter: name (placeholder inside the function).
 --Argument: "Alice" (real value given at call time).
+
+
+## Starting with REACT.JS
+1. ReactJS (also known as React or react.js) is a free and open-source JavaScript library popular for building user interfaces based on components.
+2. ReactJS is often used for developing single-page web applications (SPA) and mobile applications.
+3. ReactJS allows developers to create reusable UI components like as in Chakra UI and to manage the state of their application more efficiently, which can result in faster and more efficient rendering of the UI.
+ (Chakra UI is a comprehensive library of accessible, reusable, and composable React components that streamlines the development of modern web applications and websites.)
+4. React uses a declarative syntax, which means that developers can describe how the UI should look and behave, and React takes care of updating the UI when changes occur. This makes it easier to write and maintain complex UIs.
+5. React also supports server-side rendering with frameworks like Next.js, which means that developers can render the UI on the server and send the HTML to the browser, improving the performance and SEO of the application.
+create-react-app is a development environment that helps to speed up the development process by letting developers focus on their code instead of configuring build tools. create-react-app includes built tools such as webpack, Babel, and ESLint.
+6. React has a large and active community, which has created many libraries, tools, and frameworks that can be used with React to make development faster and easier.
+
